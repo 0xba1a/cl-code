@@ -4,6 +4,7 @@ Runnable code from Code Lab shorts — one folder per video
 Code from the shorts — one folder per video, each with the code and a step-by-step tutorial README.
 
 <!-- index:start -->
+- [LLM Evals in Python: Stop Shipping Prompts on a Vibe Check](llm-evals-for-developers-building-a-tiny/)
 - [Why BFS Fails Here: Dijkstra + heapq for Network Delay Time](dijkstras-shortest-path-with-a-heap-on/)
 - [Why counter += 1 Breaks With Threads (Python Race Condition Demo)](race-conditions-explained-why-counter-1/)
 - [kill vs kill -9: SIGTERM vs SIGKILL & Graceful Shutdown Explained](sigterm-vs-sigkill-and-graceful-shutdown/)
